@@ -427,3 +427,6 @@ The current version implements the core inventory CRUD functionality using HTML,
 ## ⭐ Acknowledgement
 
 This project was developed as part of a practical learning exercise for understanding **CRUD-based web application development** and full-stack application architecture.
+
+WEB APPLICATION LINK:
+https://dharudharanib-balu.github.io/inventory/
